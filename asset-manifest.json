@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/natalie-portfolio/static/css/main.46a53052.chunk.css",
-    "main.js": "/natalie-portfolio/static/js/main.8f581f15.chunk.js",
-    "main.js.map": "/natalie-portfolio/static/js/main.8f581f15.chunk.js.map",
+    "main.css": "/natalie-portfolio/static/css/main.f172699f.chunk.css",
+    "main.js": "/natalie-portfolio/static/js/main.d65d9d28.chunk.js",
+    "main.js.map": "/natalie-portfolio/static/js/main.d65d9d28.chunk.js.map",
     "runtime-main.js": "/natalie-portfolio/static/js/runtime-main.cd706c90.js",
     "runtime-main.js.map": "/natalie-portfolio/static/js/runtime-main.cd706c90.js.map",
     "static/js/2.35d22de2.chunk.js": "/natalie-portfolio/static/js/2.35d22de2.chunk.js",
     "static/js/2.35d22de2.chunk.js.map": "/natalie-portfolio/static/js/2.35d22de2.chunk.js.map",
     "index.html": "/natalie-portfolio/index.html",
-    "static/css/main.46a53052.chunk.css.map": "/natalie-portfolio/static/css/main.46a53052.chunk.css.map",
+    "static/css/main.f172699f.chunk.css.map": "/natalie-portfolio/static/css/main.f172699f.chunk.css.map",
     "static/js/2.35d22de2.chunk.js.LICENSE.txt": "/natalie-portfolio/static/js/2.35d22de2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cd706c90.js",
     "static/js/2.35d22de2.chunk.js",
-    "static/css/main.46a53052.chunk.css",
-    "static/js/main.8f581f15.chunk.js"
+    "static/css/main.f172699f.chunk.css",
+    "static/js/main.d65d9d28.chunk.js"
   ]
 }
