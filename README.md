@@ -9,4 +9,5 @@ TO DO LIST:
 - Update Summer and Fall Internships
 - Update CS projects
 - Remove Contact info
+- Implement Spotify API to showcase coding playlist
 - Implement GCP to determine how many people view the website
